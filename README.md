@@ -1,8 +1,6 @@
 # PySort
 A modular sorting algorithm visualizer using Python and PyGame
 
-![Image of the program working](https://btw.i-use-ar.ch/i/ok1xw8jq.png)
-
 ### How to use
 * Either install the required packages with `pip install -r requirements.txt` and run it with
 `python main.py algorithm_name` inside of the `src` folder
